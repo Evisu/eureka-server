@@ -1,4 +1,4 @@
-package com.zy.clound;
+package com.jdyh.clound;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
